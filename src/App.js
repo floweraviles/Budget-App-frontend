@@ -7,6 +7,7 @@ import NewTransaction from './Components/NewTransaction';
 import Edit from './Pages/Edit';
 import TransactionDetails from './Components/TransactionDetails';
 import Index from './Pages/Index';
+
 // import Transactions from './Components/Transactions'; 
 
 const API = apiURL();
